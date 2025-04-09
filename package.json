@@ -1,7 +1,11 @@
 {
   "author": "Raphael Isaiah",
   "description": "Managing packages with npm",
-  "keywords": ["freecodecamp","managing","packages"],
+  "keywords": [
+    "freecodecamp",
+    "managing",
+    "packages"
+  ],
   "license": "MIT",
   "version": "1.0.0",
   "name": "fcc-learn-npm-package-json",
